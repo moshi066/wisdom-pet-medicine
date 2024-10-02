@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oSeXgCtwWc2EsVqKN6akVo6M6Pm2VEYLQ8MesqSvyjdKFtwPfAgArn0elvd6yucP3WdhrLQedmT3yoP5KIl/nA==",
+  "success": true,
+  "projectFilePath": "/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Pet.Domain/WisdomPetMedicine.Pet.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/moshiur/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/moshiur/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

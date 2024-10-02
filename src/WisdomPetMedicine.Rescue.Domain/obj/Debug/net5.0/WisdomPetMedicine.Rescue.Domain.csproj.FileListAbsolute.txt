@@ -1,0 +1,16 @@
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Rescue.Domain/bin/Debug/net5.0/WisdomPetMedicine.Rescue.Domain.deps.json
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Rescue.Domain/bin/Debug/net5.0/WisdomPetMedicine.Rescue.Domain.dll
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Rescue.Domain/bin/Debug/net5.0/WisdomPetMedicine.Rescue.Domain.pdb
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Rescue.Domain/bin/Debug/net5.0/WisdomPetMedicine.Common.dll
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Rescue.Domain/bin/Debug/net5.0/WisdomPetMedicine.Common.pdb
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Rescue.Domain/obj/Debug/net5.0/WisdomPetMedicine.Rescue.Domain.csproj.AssemblyReference.cache
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Rescue.Domain/obj/Debug/net5.0/WisdomPetMedicine.Rescue.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Rescue.Domain/obj/Debug/net5.0/WisdomPetMedicine.Rescue.Domain.AssemblyInfoInputs.cache
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Rescue.Domain/obj/Debug/net5.0/WisdomPetMedicine.Rescue.Domain.AssemblyInfo.cs
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Rescue.Domain/obj/Debug/net5.0/WisdomPetMedicine.Rescue.Domain.csproj.CoreCompileInputs.cache
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Rescue.Domain/obj/Debug/net5.0/WisdomPetMedicine.Rescue.Domain.sourcelink.json
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Rescue.Domain/obj/Debug/net5.0/WisdomPe.B5073305.Up2Date
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Rescue.Domain/obj/Debug/net5.0/WisdomPetMedicine.Rescue.Domain.dll
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Rescue.Domain/obj/Debug/net5.0/refint/WisdomPetMedicine.Rescue.Domain.dll
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Rescue.Domain/obj/Debug/net5.0/WisdomPetMedicine.Rescue.Domain.pdb
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Rescue.Domain/obj/Debug/net5.0/ref/WisdomPetMedicine.Rescue.Domain.dll

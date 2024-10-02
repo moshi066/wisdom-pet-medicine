@@ -1,0 +1,16 @@
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Hospital.Domain/bin/Debug/net5.0/WisdomPetMedicine.Hospital.Domain.deps.json
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Hospital.Domain/bin/Debug/net5.0/WisdomPetMedicine.Hospital.Domain.dll
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Hospital.Domain/bin/Debug/net5.0/WisdomPetMedicine.Hospital.Domain.pdb
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Hospital.Domain/bin/Debug/net5.0/WisdomPetMedicine.Common.dll
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Hospital.Domain/bin/Debug/net5.0/WisdomPetMedicine.Common.pdb
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Hospital.Domain/obj/Debug/net5.0/WisdomPetMedicine.Hospital.Domain.csproj.AssemblyReference.cache
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Hospital.Domain/obj/Debug/net5.0/WisdomPetMedicine.Hospital.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Hospital.Domain/obj/Debug/net5.0/WisdomPetMedicine.Hospital.Domain.AssemblyInfoInputs.cache
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Hospital.Domain/obj/Debug/net5.0/WisdomPetMedicine.Hospital.Domain.AssemblyInfo.cs
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Hospital.Domain/obj/Debug/net5.0/WisdomPetMedicine.Hospital.Domain.csproj.CoreCompileInputs.cache
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Hospital.Domain/obj/Debug/net5.0/WisdomPetMedicine.Hospital.Domain.sourcelink.json
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Hospital.Domain/obj/Debug/net5.0/WisdomPe.A5A3604A.Up2Date
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Hospital.Domain/obj/Debug/net5.0/WisdomPetMedicine.Hospital.Domain.dll
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Hospital.Domain/obj/Debug/net5.0/refint/WisdomPetMedicine.Hospital.Domain.dll
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Hospital.Domain/obj/Debug/net5.0/WisdomPetMedicine.Hospital.Domain.pdb
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Hospital.Domain/obj/Debug/net5.0/ref/WisdomPetMedicine.Hospital.Domain.dll

@@ -1,0 +1,12 @@
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Common/bin/Debug/net5.0/WisdomPetMedicine.Common.deps.json
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Common/bin/Debug/net5.0/WisdomPetMedicine.Common.dll
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Common/bin/Debug/net5.0/WisdomPetMedicine.Common.pdb
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Common/obj/Debug/net5.0/WisdomPetMedicine.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Common/obj/Debug/net5.0/WisdomPetMedicine.Common.AssemblyInfoInputs.cache
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Common/obj/Debug/net5.0/WisdomPetMedicine.Common.AssemblyInfo.cs
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Common/obj/Debug/net5.0/WisdomPetMedicine.Common.csproj.CoreCompileInputs.cache
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Common/obj/Debug/net5.0/WisdomPetMedicine.Common.sourcelink.json
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Common/obj/Debug/net5.0/WisdomPetMedicine.Common.dll
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Common/obj/Debug/net5.0/refint/WisdomPetMedicine.Common.dll
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Common/obj/Debug/net5.0/WisdomPetMedicine.Common.pdb
+/Users/moshiur/Documents/Learning/dotnet/wisdom-pet-medicine/src/WisdomPetMedicine.Common/obj/Debug/net5.0/ref/WisdomPetMedicine.Common.dll
